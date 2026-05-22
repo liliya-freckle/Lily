@@ -1,0 +1,13 @@
+.btn {
+    padding: 12px 24px;
+    color: aliceblue;
+
+}
+
+.btn--primary{
+    background: green;
+}
+
+.btn--secondary{
+    background: greenyellow;
+}
